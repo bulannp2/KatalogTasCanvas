@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KatalogTasCanvas</string>
+    <string-array name="pilih_aksi">
+        <item>Detail Produk</item>
+        <item>Edit Produk</item>
+        <item>Delete Produk</item>
+    </string-array>
+</resources>
